@@ -7,7 +7,7 @@ Like the GIF shows, this tool can disply the folloing information.
 
 ## Install
 ```
-pip install 
+pip install console-progress-bar
 ```
 
 ## Usage
