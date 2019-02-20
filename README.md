@@ -1,7 +1,7 @@
 # A simple console progress bar for Python 3  
 `progressBar` is a simple progress bar that can show in the text console.    
 ![demo](src/progressBarDemoGIF.gif)  
-Like the GIF shows, this tool can disply the folloing information.  
+Like the GIF shows, this tool can display the following information.  
 ![explain](src/progressBarExplain.png)
 
 
