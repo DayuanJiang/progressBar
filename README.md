@@ -26,12 +26,13 @@ Explain:
 ```python
 from progressBar import ProcessBar
 
-# initial bar object with the total number of task
-# it will print the title of the process bar
+# initial bar object with the total number of task.
+# it will print the title of the process bar.
 bar = ProcessBar(99)
 
 for i in range(1, 100):
     time.sleep(0.1)
-    # Updata for each completed task,
-    bar.update()
+    # Updata for each completed task.
+    # the text inside the parenthesise is optional. 
+    bar.update("file {}".format(i))
 ```
